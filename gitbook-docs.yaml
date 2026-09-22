@@ -133,6 +133,5 @@ site:
       key: space-22
       title: Terminaux 8.7 - Manual
       path: terminaux-8.7-manual
-      draft: true
       content:
         directory: ./terminaux-8.7-manual
