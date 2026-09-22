@@ -1,0 +1,131 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Aptivi - Stable Manuals
+  structure:
+    - type: space
+      key: space-5
+      title: Nitrocid KS v0.1.0 - RTM
+      path: nitrocid-ks-v0.1.0-rtm
+      content:
+        directory: ./nitrocid-ks-v0.1.0-rtm
+    - type: space
+      key: space-4
+      title: Nitrocid KS v0.1.0 - Service Pack 1
+      path: nitrocid-ks-v0.1.0-service-pack-1
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-1
+    - type: space
+      key: space-3
+      title: Nitrocid KS v0.1.0 - Service Pack 2
+      path: nitrocid-ks-v0.1.0-service-pack-2
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-2
+    - type: space
+      key: space-2
+      title: Nitrocid KS v0.1.0 - Service Pack 3
+      path: nitrocid-ks-v0.1.0-service-pack-3
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-3
+    - type: space
+      key: space-7
+      title: Nitrocid KS v0.1.0 - Service Pack 4
+      path: nitrocid-ks-v0.1.0-service-pack-4
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-4
+    - type: space
+      key: space-8
+      title: Nitrocid KS v0.1.0 - Service Pack 5
+      path: nitrocid-ks-v0.1.0-service-pack-5
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-5
+    - type: space
+      key: space-12
+      title: Nitrocid KS v0.1.0 - Service Pack 6
+      path: nitrocid-ks-v0.1.0-service-pack-6
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-6
+    - type: space
+      key: space-17
+      title: Nitrocid KS v0.1.0 - Service Pack 7
+      path: nitrocid-ks-v0.1.0-service-pack-7
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-7
+    - type: space
+      key: space-11
+      title: Nitrocid KS v0.2.0 - RTM
+      path: nitrocid-ks-v0.2.0-rtm
+      content:
+        directory: ./nitrocid-ks-v0.2.0-rtm
+    - type: space
+      key: space-18
+      title: Nitrocid KS v0.2.0 - Service Pack 1
+      path: nitrocid-ks-v0.2.0-service-pack-1
+      default: true
+      content:
+        directory: ./nitrocid-ks-v0.2.0-service-pack-1
+    - type: space
+      key: space-20
+      title: Nitrocid KS v0.2.1 Tech Preview - Manual
+      path: nitrocid-ks-v0.2.1-tech-preview-manual
+      content:
+        directory: ./nitrocid-ks-v0.2.1-tech-preview-manual
+    - type: space
+      key: space-13
+      title: BassBoom 1.0.x - Manual
+      path: bassboom-1.0.x-manual
+      content:
+        directory: ./bassboom-1.0.x-manual
+    - type: space
+      key: space-1
+      title: Terminaux 6.x - Manual
+      path: terminaux-6.x-manual
+      content:
+        directory: ./terminaux-6.x-manual
+    - type: space
+      key: space-6
+      title: Terminaux 7.x - Manual
+      path: terminaux-7.x-manual
+      content:
+        directory: ./terminaux-7.x-manual
+    - type: space
+      key: space-10
+      title: Terminaux 8.0 - Manual
+      path: terminaux-8.0-manual
+      content:
+        directory: ./terminaux-8.0-manual
+    - type: space
+      key: space-9
+      title: Terminaux 8.1 - Manual
+      path: terminaux-8.1-manual
+      content:
+        directory: ./terminaux-8.1-manual
+    - type: space
+      key: space-14
+      title: Terminaux 8.2 - Manual
+      path: terminaux-8.2-manual
+      content:
+        directory: ./terminaux-8.2-manual
+    - type: space
+      key: space-15
+      title: Terminaux 8.3 - Manual
+      path: terminaux-8.3-manual
+      content:
+        directory: ./terminaux-8.3-manual
+    - type: space
+      key: space-16
+      title: Terminaux 8.4 - Manual
+      path: terminaux-8.4-manual
+      content:
+        directory: ./terminaux-8.4-manual
+    - type: space
+      key: space-19
+      title: Terminaux 8.5 - Manual
+      path: terminaux-8.5-manual
+      content:
+        directory: ./terminaux-8.5-manual
+    - type: space
+      key: space-21
+      title: Terminaux 8.6 - Manual
+      path: terminaux-8.6-manual
+      content:
+        directory: ./terminaux-8.6-manual
