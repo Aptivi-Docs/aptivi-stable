@@ -139,6 +139,5 @@ site:
       key: space-23
       title: Terminaux 8.8 - Manual
       path: terminaux-8.8-manual
-      draft: true
       content:
         directory: ./terminaux-8.8-manual
