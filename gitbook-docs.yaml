@@ -154,3 +154,10 @@ site:
       draft: true
       content:
         directory: ./nitrocid-ks-v0.2.0-service-pack-2
+    - type: space
+      key: space-26
+      title: Nitrocid KS v0.1.0 - Service Pack 8
+      path: nitrocid-ks-v0.1.0-service-pack-8
+      draft: true
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-8
