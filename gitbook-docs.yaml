@@ -147,3 +147,10 @@ site:
       path: terminaux-8.8-manual
       content:
         directory: ./terminaux-8.8-manual
+    - type: space
+      key: space-25
+      title: Nitrocid KS v0.2.0 - Service Pack 2
+      path: nitrocid-ks-v0.2.0-service-pack-2
+      draft: true
+      content:
+        directory: ./nitrocid-ks-v0.2.0-service-pack-2
