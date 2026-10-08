@@ -51,6 +51,12 @@ site:
       content:
         directory: ./nitrocid-ks-v0.1.0-service-pack-7
     - type: space
+      key: space-26
+      title: Nitrocid KS v0.1.0 - Service Pack 8
+      path: nitrocid-ks-v0.1.0-service-pack-8
+      content:
+        directory: ./nitrocid-ks-v0.1.0-service-pack-8
+    - type: space
       key: space-11
       title: Nitrocid KS v0.2.0 - RTM
       path: nitrocid-ks-v0.2.0-rtm
@@ -63,6 +69,13 @@ site:
       default: true
       content:
         directory: ./nitrocid-ks-v0.2.0-service-pack-1
+    - type: space
+      key: space-25
+      title: Nitrocid KS v0.2.0 - Service Pack 2
+      path: nitrocid-ks-v0.2.0-service-pack-2
+      draft: true
+      content:
+        directory: ./nitrocid-ks-v0.2.0-service-pack-2
     - type: space
       key: space-20
       title: Nitrocid KS v0.2.1 Tech Preview - Manual
@@ -147,17 +160,3 @@ site:
       path: terminaux-8.8-manual
       content:
         directory: ./terminaux-8.8-manual
-    - type: space
-      key: space-25
-      title: Nitrocid KS v0.2.0 - Service Pack 2
-      path: nitrocid-ks-v0.2.0-service-pack-2
-      draft: true
-      content:
-        directory: ./nitrocid-ks-v0.2.0-service-pack-2
-    - type: space
-      key: space-26
-      title: Nitrocid KS v0.1.0 - Service Pack 8
-      path: nitrocid-ks-v0.1.0-service-pack-8
-      draft: true
-      content:
-        directory: ./nitrocid-ks-v0.1.0-service-pack-8
