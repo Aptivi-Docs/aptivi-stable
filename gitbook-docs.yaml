@@ -66,14 +66,13 @@ site:
       key: space-18
       title: Nitrocid KS v0.2.0 - Service Pack 1
       path: nitrocid-ks-v0.2.0-service-pack-1
-      default: true
       content:
         directory: ./nitrocid-ks-v0.2.0-service-pack-1
     - type: space
       key: space-25
       title: Nitrocid KS v0.2.0 - Service Pack 2
       path: nitrocid-ks-v0.2.0-service-pack-2
-      draft: true
+      default: true
       content:
         directory: ./nitrocid-ks-v0.2.0-service-pack-2
     - type: space
