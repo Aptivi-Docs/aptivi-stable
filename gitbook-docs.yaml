@@ -159,3 +159,10 @@ site:
       path: terminaux-8.8-manual
       content:
         directory: ./terminaux-8.8-manual
+    - type: space
+      key: space-27
+      title: Terminaux 8.9 - Manual
+      path: terminaux-8.9-manual
+      draft: true
+      content:
+        directory: ./terminaux-8.9-manual
