@@ -76,6 +76,13 @@ site:
       content:
         directory: ./nitrocid-ks-v0.2.0-service-pack-2
     - type: space
+      key: space-28
+      title: Nitrocid KS v0.2.1 - RTM
+      path: nitrocid-ks-v0.2.1-rtm
+      draft: true
+      content:
+        directory: ./nitrocid-ks-v0.2.1-rtm
+    - type: space
       key: space-20
       title: Nitrocid KS v0.2.1 Tech Preview - Manual
       path: nitrocid-ks-v0.2.1-tech-preview-manual
