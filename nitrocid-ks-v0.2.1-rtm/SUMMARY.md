@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome!](README.md)
-* [Release notes](v0.2.0.x-series.md)
 
 ## Installation and Maintenance
 
