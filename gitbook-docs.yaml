@@ -89,12 +89,6 @@ site:
       content:
         directory: ./nitrocid-ks-v0.2.1-tech-preview-manual
     - type: space
-      key: space-24
-      title: Nitrocid KS v0.2.1 - Release Candidate
-      path: nitrocid-ks-v0.2.1-release-candidate
-      content:
-        directory: ./nitrocid-ks-v0.2.1-release-candidate
-    - type: space
       key: space-13
       title: BassBoom 1.0.x - Manual
       path: bassboom-1.0.x-manual
