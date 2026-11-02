@@ -159,3 +159,10 @@ site:
       path: terminaux-8.9-manual
       content:
         directory: ./terminaux-8.9-manual
+    - type: space
+      key: space-20
+      title: MediaBoom 1.0.x - Manual
+      path: mediaboom-1.0.x-manual
+      draft: true
+      content:
+        directory: ./mediaboom-1.0.x-manual
